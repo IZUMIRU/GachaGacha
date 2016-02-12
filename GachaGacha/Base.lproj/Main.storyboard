@@ -83,6 +83,10 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
+                    <connections>
+                        <outlet property="haikeiImageView" destination="fx2-96-dxg" id="LH2-T1-gqp"/>
+                        <outlet property="monsterImageView" destination="K8T-9o-lnM" id="JvI-NN-AoD"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="TLh-sq-g1U" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
